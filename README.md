@@ -7,7 +7,7 @@ The interface is implemented in **Python (Tkinter GUI)**.
 
 ## How to Run
 
-You can run the program either from a **Python development environment** (e.g., Spyder, Visual Studio Code) or directly from a **terminal** (if Python is in your PATH):
+You can run the program either from a **Python development environment** or directly from a **terminal** (if Python is in your PATH):
 
 ```bash
 python interface.py
